@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "author": "John",
+      "title": "Civil Servant",
+      "body": "he is a graduate ",
+      "id": 1
+    },
+    {
+      "author": "Michael",
+      "title": "Business Man",
+      "body": "he is intelligent",
+      "id": 2
+    },
+    {
+      "author": "Grace",
+      "title": "Business Woman",
+      "body": "she is innovative",
+      "id": 3
+    },
+    {
+      "author": "Martha",
+      "title": "Civil Servant",
+      "body": "she is hardworking",
+      "id": 4
+    },
+    {
+      "author": "Sharon",
+      "title": "Business Woman",
+      "body": "she is hardworking",
+      "id": 5
+    },
+    {
+      "title": "Accountant",
+      "author": "Glory",
+      "body": "she is beautiful, hardworking and dedicated",
+      "id": 6
+    },
+    {
+      "title": "Footballer",
+      "author": "David",
+      "body": "he is hardworking, skillfull",
+      "id": 8
+    },
+    {
+      "title": "EMMI",
+      "author": "Ujiro",
+      "body": "Hello. testing mode...",
+      "id": 13
+    }
+  ],
+  "Message": {
+    "msg": "Successful Fetch"
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "John Doe",
+      "email": "johndoe@gmail.com",
+      "password": "12345"
+    },
+    {
+      "username": "Ujiro",
+      "email": "ujiro@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "username": "James",
+      "email": "james@emmi.com",
+      "password": "54321",
+      "id": 3
+    }
+  ]
+}

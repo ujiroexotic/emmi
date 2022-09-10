@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "author": "John",
+      "title": "Civil Servant",
+      "body": "he is a graduate ",
+      "id": 1
+    },
+    {
+      "author": "Michael",
+      "title": "Business Man",
+      "body": "he is intelligent",
+      "id": 2
+    },
+    {
+      "author": "Grace",
+      "title": "Business woman",
+      "body": "she is innovative",
+      "id": 3
+    },
+    {
+      "author": "Martha",
+      "title": "Civil Servant",
+      "body": "she is hardworking",
+      "id": 4
+    },
+    {
+      "author": "Sharon",
+      "title": "Business woman",
+      "body": "she is hardworking",
+      "id": 5
+    }
+  ],
+  "Message": {
+    "msg": "Successful Fetch"
+  }
+}
